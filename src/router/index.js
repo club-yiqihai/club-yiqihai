@@ -1,3 +1,12 @@
+/**
+ * Created by
+ * Author: 
+ * QQ: 
+ *
+ * 《江畔独步寻花》· 杜甫
+ * 黄四娘家花满蹊，千朵万朵压枝低。
+ * 留连戏蝶时时舞，自在娇莺恰恰啼。
+ */
 import Vue from 'vue'
 import Router from 'vue-router'
 
