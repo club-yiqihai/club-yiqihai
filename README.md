@@ -12,7 +12,7 @@ vue.js+node.js+webpack构建的前端项目
 项目目录结构
 --
 .
-├── build  构建脚本目录
+├── build  构建脚本目录                                                                                                                   
     ├── build.js  生成环境构建脚本
     ├── check-versions.js  检查npm，node.js版本 
     ├── utils.js  构建相关工具方法
